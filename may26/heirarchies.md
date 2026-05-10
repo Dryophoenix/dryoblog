@@ -30,11 +30,13 @@
 
   3) Does the function have a purpose that's similar to a "sibling's" function, but could reasonably stay separate?
 
-    If so, it should eventually be promoted to their parent. This would actually be prioritized as Eisenhower 4, not urgent and unimportant. 
+    If so, it should eventually be promoted to their parent. 
+    This would actually be prioritized as Eisenhower 4, not urgent and unimportant. 
 
   4) Does the function have a purpose that's similar to a "cousin's" function, but could reasonably stay separate?
 
-    If so, it should be eventually promoted to the closest parent match. This would also be prioritized as Eisenhower 4 - Not urgent and unimportant.
+    If so, it should be eventually promoted to the closest parent match. 
+    This would also be prioritized as Eisenhower 4 - Not urgent and unimportant.
 
   Using the Eisenhower matrix model allows for effective triaging of *maintenance* in this case, which otherwise can be difficult. Especially because of the nature of programming, Eisenhower 4 tasks don't have to be discarded- I would presume that they make excellent introductory projects to a codebase, since they require only a reimplementation of the code, and would provide opportunity for new contributors to enter. I've noticed that many codebases - especially distributions of Linux - have "good for new contributors" pages in their triage system. This also just serves as a valid way to fill that, without filling experienced contributors' to-do lists with tasks.
 
