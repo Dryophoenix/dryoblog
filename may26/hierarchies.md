@@ -1,6 +1,6 @@
 +++
-title   = "Your Title"
-date    = "2026-05-01"
+title   = "Hierarchies"
+date    = "2026-05-10"
 weight  = 1
 draft   = false
 +++
