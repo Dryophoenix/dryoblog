@@ -9,15 +9,13 @@ draft   = false
 
 In Dennis E. Taylor's book Heaven's River, there is a race that is gradually losing their sentience. If your life is simple, so simple and easy that the sheer amount of calories spent thinking is just a waste, then what becomes of you?
 
-A lot of nerds and geeks (like me) would agree that science fiction is philosophy. After all, Star Trek explored what it could mean to exist in a spacefaring civilization. Brave New World explored what it could mean to live in chemical bliss. How *couldn't* that be philosophy?
+A lot of nerds and geeks (like me) would agree that science fiction is philosophy. After all, Star Trek explored what it could mean to exist in a spacefaring civilization. Brave New World explored what it could mean to live in chemical bliss.
 
 So, in a world where you can outsource your thinking, then, well...
 
 What becomes of you?
 
 ---
-
-There is a talk about AI being the future, and I don't disagree. In fact, my website's core HTML and CSS was written by the contributors of Pico and edited by Claude. In turn, there is talk of AI bringing danger, and I also don't disagree. 
 
 I've long held that LLMs are essentially "reasoning engines"; whereas internet search allowed for us to outsource accumulated knowledge, LLMs allow us to also outsource our reasoning, let alone that they can search the internet as well. I have to wonder what it means to start to have something else think for me. 
 
