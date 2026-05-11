@@ -1,4 +1,9 @@
-# Hierarchies
++++
+title   = "Your Title"
+date    = "2026-05-01"
+weight  = 1
+draft   = false
++++
 
 ## DryoX
 
@@ -14,7 +19,7 @@
 
   Knowing how many issues exist with a hierarchical structure, but also how much more efficient it could be, I decided that I must decide on a rule for myself.
 
-###
+---
 
   If a function exists in two of its "children", it must be promoted to "parent". This has four categories, and I rely on the Eisenhower Matrix method of triaging these.
 
@@ -44,8 +49,8 @@
 
   I'm not entirely sure when exactly I determined my code would be structured this way, but I do remember why.
 
-###
-  
+---
+
   In the process of building a library called `dryoconnect`, which is an SSH tool built on `libdryox`, I determined that it could be considered a "child" of DryoX. 
 
   My primitive Bash version of the tool found itself with a predicament - it was writing a lot of logging functions, and it was building its own config parser out of a Bash associative array. Figuring that this was beginning to become unwieldy, I began to learn C.
@@ -54,7 +59,7 @@
 
   Working from this, I determined also that libraries of separate codebases should be in separate hierarchies, and should indeed not call on each other unless wrapping each other. At least this way they can be a little bit cleaner.
 
-###
+---
 
   I figure that this way of thinking about codebases might be helpful to someone else, as well as it would be helpful to me to have it written out. In the case that you do find this helpful, I would love to hear your thoughts :)
 
