@@ -52,7 +52,7 @@
 
   In the process of hashing out how I wanted the project to be structured, I knew that the logging functions would have to live in `libdryox`, `dryoconnect`'s parent. So should the parser, so should anything that anything just above it relies on.
 
-  Working from this, I determined also that libraries of separate codebases should be in separate hierarchies, and should indeed not call on each other unless wrapping each other. 
+  Working from this, I determined also that libraries of separate codebases should be in separate hierarchies, and should indeed not call on each other unless wrapping each other. At least this way they can be a little bit cleaner.
 
 ###
 
